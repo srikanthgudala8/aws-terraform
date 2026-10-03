@@ -6,3 +6,6 @@ resource "aws_instance" "web" {
     Name = "Terraform-EC2"
   }
 }
+
+
+This is the temp
